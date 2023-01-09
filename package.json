@@ -4,7 +4,7 @@
   "description": "Simple hello world command",
   "publisher": "dinhlongviolin1",
   "repository": "https://github.com/dinhlongviolin1/vscode-hello-world",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
   },
