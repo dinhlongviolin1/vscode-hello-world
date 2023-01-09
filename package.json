@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/dinhlongviolin1/vscode-hello-world"
   },
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.74.0"
   },
